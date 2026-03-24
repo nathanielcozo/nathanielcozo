@@ -7,9 +7,7 @@
 - Passionate about growing as a developer
 
 ## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,git,github)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 <p align="center">
