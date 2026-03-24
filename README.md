@@ -7,7 +7,7 @@
 - Passionate about growing as a developer
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 <p align="center">
