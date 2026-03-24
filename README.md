@@ -20,5 +20,3 @@ Work in progress...
 <p align="center">
   ⭐ Keep building, keep improving.
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=100&section=footer"/>
