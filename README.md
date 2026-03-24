@@ -6,7 +6,7 @@
 - Goal: Build real-world projects
 - Interested in creative work
 
-<img src="https://streak-stats.demolab.com/?user=nathanielcozo&theme=tokyonight&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077FF&height=100&section=footer"/>
 
 ## 🛠️ Tech Stack
 <p>
