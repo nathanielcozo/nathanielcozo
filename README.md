@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nathanielcozo&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔥 Projects
