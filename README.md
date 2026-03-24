@@ -15,3 +15,9 @@
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
+## 🔥 Projects
+
+<p align="center">
+  ⭐ Keep building, keep improving.
+</p>
