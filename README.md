@@ -17,6 +17,7 @@
 </p>
 
 ## 🔥 Projects
+Work in progress
 
 <p align="center">
   ⭐ Keep building, keep improving.
