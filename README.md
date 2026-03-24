@@ -1,10 +1,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Nathaniel
 
 ## 🧑‍💻 About Me
-- Student
-- Learning Java
-- Goal: Build real-world projects
-- Interested in creative work
+- Student at University of Mindanao
+- Currently learning Java and problem solving
+- Focused on building real-world projects and improving consistently
+- Passionate about growing as a developer
 
 ## 🛠️ Tech Stack
 <p>
