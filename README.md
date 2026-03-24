@@ -6,8 +6,6 @@
 - Goal: Build real-world projects
 - Interested in creative work
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077FF&height=100&section=footer"/>
-
 ## 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -24,3 +22,5 @@ Work in progress...
 <p align="center">
   ⭐ Keep building, keep improving.
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=100&section=footer"/>
