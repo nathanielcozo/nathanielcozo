@@ -15,8 +15,7 @@
 </p>
 
 ## 🔥 Projects
-- Simple Quiz System
-- Advanced Quiz System
+- Simple & Advanced Quiz System
 
 <p align="center">
   ⭐ Keep building, keep improving.
