@@ -16,6 +16,7 @@
 
 ## 🔥 Projects
 - Simple & Advanced Quiz System
+- Game Player Account Manager
 - Simple Stardew Valley Recreation
 
 <p align="center">
