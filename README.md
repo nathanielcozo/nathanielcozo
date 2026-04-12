@@ -16,6 +16,7 @@
 
 ## 🔥 Projects
 - Simple & Advanced Quiz System
+- Simple Stardew Valley Recreation
 
 <p align="center">
   ⭐ Keep building, keep improving.
