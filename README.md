@@ -18,6 +18,7 @@
 - Simple & Advanced Quiz System
 - Game Player Account Manager
 - Simple Stardew Valley Recreation
+- Sokoban Recreation
 
 <p align="center">
   ⭐ Keep building, keep improving.
